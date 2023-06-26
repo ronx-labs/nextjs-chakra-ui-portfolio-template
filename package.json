@@ -2,7 +2,6 @@
   "name": "portfolio-boilerplate-nextjs",
   "version": "0.1.0",
   "private": true,
-  "license": "MIT",
   "repository": {
     "url": "https://github.com/imadatyatalah/portfolio-boilerplate-nextjs"
   },
